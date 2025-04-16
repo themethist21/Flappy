@@ -1,3 +1,4 @@
+# Flappy Seagull
 Small demo game for a "Flappy Bird" style game.
 <br/>
 <br/>
